@@ -7,7 +7,6 @@
 - 🏆 2020 goal: know more everyday, be more productive
 
 ### Email me: maciekbereda46@gmail.com
-<br />
 
 ### Connect with me:
 [<img align="left" width="30px" src="https://www.svgrepo.com/show/13643/facebook.svg" />][facebook]
