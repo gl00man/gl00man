@@ -18,7 +18,7 @@
 ### Languages and Tools:
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-2019.png" />][visualstudio]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" />][visualstudiocode]
-[<img align="left" width="35px" src="https://icon2.cleanpng.com/20180514/abe/kisspng-atom-text-editor-source-code-editor-visual-studio-5af92043eaf496.4540113715262761639624.jpg" />][atom]
+[<img align="left" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fzeke%2Fatom-icon%2Fmaster%2Fold-icon%2F2.png&f=1&nofb=1" />][atom]
 [<img align="left" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][gvim]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/github.png" />][github]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/adobe-photoshop.png" />][photoshop]
