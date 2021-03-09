@@ -18,7 +18,7 @@
 ### Languages and Tools:
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-2019.png" />][visualstudio]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" />][visualstudiocode]
-[<img align="left" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fzeke%2Fatom-icon%2Fmaster%2Fold-icon%2F2.png&f=1&nofb=1" />][atom]
+[<img align="left" width="35px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fsublime-text-icon.png&f=1&nofb=1" />][sublime]
 [<img align="left" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][gvim]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/github.png" />][github]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/adobe-photoshop.png" />][photoshop]
@@ -37,7 +37,7 @@
 [instagram]: https://www.instagram.com/godwhathappened/
 [visualstudio]: https://visualstudio.microsoft.com
 [visualstudiocode]:https://code.visualstudio.com/
-[atom]: https://atom.io/
+[sublime]: https://www.sublimetext.com/
 [gvim]: https://www.vim.org/download.php
 [github]: https://github.com/
 [photoshop]: https://www.adobe.com/pl/products/photoshop.html
