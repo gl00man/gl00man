@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-2019.png" />][visualstudio]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" />][visualstudiocode]
 [<img align="left" width="35px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fsublime-text-icon.png&f=1&nofb=1" />][sublime]
@@ -23,12 +23,15 @@
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/github.png" />][github]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/adobe-photoshop.png" />][photoshop]
 [<img align="left" width="35px" src="https://img.icons8.com/nolan/344/notion.png" />][notion]
+
+<br />
+ 
+### Frameworks & Languages:
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" />
 <img align="left" width="35px" src="https://img.icons8.com/color/344/c-sharp-logo.png" />
 <img align="left" width="35px" src="https://img.icons8.com/color/344/python.png" />
 <img align="left" width="35px" src="https://img.icons8.com/nolan/344/xaml.png" />
 <img align="left" width="35px" src="https://img.icons8.com/ultraviolet/344/mysql.png" />
- 
-
 
 <br />
 <br />
