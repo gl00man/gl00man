@@ -4,7 +4,7 @@
 - 💻  I'm currently studying computer science
 - 🤖 I love programming, specially solving problems and automating everything
 - 🤝 Love to share projects and learn from others!
-- 🏆 2020 goal: know more everyday, be more productive
+- 🏆 2021 goal: know more everyday, be more productive
 - ⭐️ Fun fact: I love guinea pigs!
 
 ### Email me: maciekbereda46@gmail.com
