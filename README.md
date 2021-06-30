@@ -16,6 +16,12 @@
 
 <br />
 
+### OS:
+<img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png" />
+<img align="left" width="35px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
+
+<br />
+
 ### Tools:
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-2019.png" />][visualstudio]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" />][visualstudiocode]
@@ -24,12 +30,6 @@
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/github.png" />][github]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/adobe-photoshop.png" />][photoshop]
 [<img align="left" width="35px" src="https://img.icons8.com/nolan/344/notion.png" />][notion]
-
-<br />
-
-### OS:
-<img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png" />
-<img align="left" width="35px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
 
 <br />
  
