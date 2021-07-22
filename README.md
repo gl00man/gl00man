@@ -10,12 +10,6 @@
 ### Email me: maciekbereda46@gmail.com
 
 
-### Connect with me:
-[<img align="left" width="30px" src="https://www.svgrepo.com/show/13643/facebook.svg" />][facebook]
-[<img align="left" width="30px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
-
-<br />
-
 ### OS:
 <img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png" />
 <img align="left" width="35px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
