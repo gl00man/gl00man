@@ -41,8 +41,6 @@
 <br />
 <br />
 
-#### <a href="https://gl00man.github.io/">Visit my website</a>
-
 [facebook]: https://www.facebook.com/maciek.bereda/
 [instagram]: https://www.instagram.com/godwhathappened/
 [visualstudio]: https://visualstudio.microsoft.com
