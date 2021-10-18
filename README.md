@@ -1,18 +1,16 @@
-### Hi! I'm gl00man👋
+### Nice to meet you!👋
 
-## But my real name is Maciej, here is few words about me:
-- 💻  I'm currently studying computer science
-- 🤖 I love programming, specially solving problems and automating everything
-- 🤝 Love to share projects and learn from others!
-- 🏆 2021 goal: know more everyday, be more productive
-- ⭐️ I love guinea pigs!
-
-### Email me: maciekbereda46@gmail.com
-
+## I'm gl00man, but my real name is Maciej, check out my tech stack:
 
 ### OS:
 <img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png" />
 <img align="left" width="35px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
+
+<br />
+
+### Clouds:
+[<img align="left" width="35px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
+[<img align="left" width="35px" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" />][googlecloud]
 
 <br />
 
@@ -22,17 +20,16 @@
 [<img align="left" width="35px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fsublime-text-icon.png&f=1&nofb=1" />][sublime]
 [<img align="left" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][gvim]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/github.png" />][github]
-[<img align="left" width="35px" src="https://img.icons8.com/fluent/344/adobe-photoshop.png" />][photoshop]
 [<img align="left" width="35px" src="https://img.icons8.com/nolan/344/notion.png" />][notion]
 
 <br />
  
 ### Frameworks & Languages:
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" />
-<img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
 <img align="left" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" width="35px" src="https://img.icons8.com/color/344/python.png" />
+<img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+<img align="left" width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
 <img align="left" width="35px" src="https://image.flaticon.com/icons/png/512/919/919827.png" />
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
 <img align="left" width="40px" src="https://img.icons8.com/nolan/344/xaml.png" />
@@ -40,7 +37,16 @@
 
 <br />
 <br />
+<br />
 
+## Have questions? 
+Email me: maciekbereda46@gmail.com
+<br />
+
+<br />
+
+[azure]: https://azure.microsoft.com/
+[googlecloud]: https://cloud.google.com/
 [facebook]: https://www.facebook.com/maciek.bereda/
 [instagram]: https://www.instagram.com/godwhathappened/
 [visualstudio]: https://visualstudio.microsoft.com
