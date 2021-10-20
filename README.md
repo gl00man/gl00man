@@ -1,6 +1,6 @@
 ### Nice to meet you!👋
 
-## I'm gl00man, but my real name is Maciej, check out my tech stack:
+## I'm gl00man, check out my tech stack:
 
 ### OS:
 <img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png" />
