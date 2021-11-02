@@ -29,10 +29,7 @@
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" />
 <img align="left" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" width="35px" src="https://img.icons8.com/color/344/python.png" />
-<img align="left" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
-<img align="left" width="35px" src="https://image.flaticon.com/icons/png/512/919/919827.png" />
-<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
 <img align="left" width="40px" src="https://img.icons8.com/nolan/344/xaml.png" />
 <img align="left" width="35px" src="https://img.icons8.com/ultraviolet/344/mysql.png" />
 
