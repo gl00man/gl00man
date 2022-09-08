@@ -37,10 +37,6 @@
 <br />
 <br />
 
-## Have questions? 
-Email me: maciekbereda46@gmail.com
-<br />
-
 <br />
 
 [azure]: https://azure.microsoft.com/
