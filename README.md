@@ -15,7 +15,7 @@
 <br />
 
 ### Tools:
-[<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-2019.png" />][visualstudio]
+[<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" />][visualstudio]
 [<img align="left" width="35px" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" />][visualstudiocode]
 [<img align="left" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][gvim]
 [<img align="left" width="35px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />][postman]
