@@ -31,7 +31,6 @@
 <img align="left" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" width="35px" src="https://img.icons8.com/color/344/python.png" />
 <img align="left" width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
-<img align="left" width="40px" src="https://tukano.com.pl/static/media/wpf.9a632a73.png" />
 <img align="left" width="35px" src="https://img.icons8.com/ultraviolet/344/mysql.png" />
 
 <br />
